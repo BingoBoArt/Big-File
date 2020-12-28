@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-egg",
+  "rules":{
+    "semi": ["error", "never"] // 控制行尾部分号
+  }
+}
