@@ -10,11 +10,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.4",
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
-    "nuxt": "^2.14.6"
+    "md5": "^2.3.0",
+    "nuxt": "^2.14.6",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^4.3.1"
   },
   "devDependencies": {
+    "@nuxtjs/proxy": "^2.1.0",
     "@vue/test-utils": "^1.1.0",
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^26.5.0",

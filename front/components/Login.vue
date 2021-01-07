@@ -1,15 +1,15 @@
 <template>
     <div>
-        首页
+        login...
     </div>
 </template>
 
 <script>
     export default {
-        layout: '/'
+        
     }
 </script>
 
-<style lang="scss" scoped>
+<style lang="stylus" scoped>
 
 </style>
